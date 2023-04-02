@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... an Agile and Agility open source software that can support organizations / teams that are adopting agile ways-of-working.
 
+- 👯 I’m looking to collaborate on ... this open source software, I have written few modules in python and django
+- 🤔 I’m looking for help with ... some front-end html, css and js and back-end
+- 💬 Ask me about ... about python and django
+- 📫 How to reach me: ... on the email
 <!--
 **SCRUMXPKAN/scrumxpkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
